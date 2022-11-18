@@ -1,0 +1,35 @@
+#:import utils kivy.utils
+#:include homemapview.kv
+
+<HomeScreen>:
+    FloatLayout:
+        HomeMapView:
+            pos_hint: {"top": .9, "left": 1}
+            size_hint: 1, 1
+            id: mapview
+        GridLayout:
+            rows: 1
+            size_hint: 1, .1
+            pos_hint: {"top": .10, "right": 1}
+            LabelButton:
+                text: "Zaloguj sie"
+                canvas.before:
+                    Color:
+                        rgb: app.theme_cls.primary_color if self.state == 'normal' else utils.get_color_from_hex("#66b2b2")
+                    Rectangle:
+                        size: self.size
+                        pos: self.pos
+                markup: True
+                on_release:
+                    app.change_screen("login_screen", direction='right', mode='push')
+            LabelButton:
+                text: "Jakas druga opcja"
+                canvas.before:
+                    Color:
+                        rgb: app.theme_cls.primary_color if self.state == 'normal' else utils.get_color_from_hex("#66b2b2")
+                    Rectangle:
+                        size: self.size
+                        pos: self.pos
+                markup: True
+                on_release:
+                    app.change_screen("opcja2_screen", direction='right', mode='push')

@@ -1,0 +1,64 @@
+#:include kv/homescreen.kv
+#:import utils kivy.utils
+
+Screen:
+    MDTopAppBar:
+        id: titlename
+        title: "Znajdz krasnala"
+        left_action_items: [["menu", lambda x : nav_drawer.set_state('toggle')]]
+        md_bg_color: app.theme_cls.primary_color
+        elevation: 8
+        pos_hint: {"top": 1, "left": 1}
+        size_hint: 1, .1
+    MDNavigationLayout:
+        ScreenManager:
+            id: screen_manager
+            size_hint: 1, 1
+            pos_hint: {"top": 1, "left": 1}
+            HomeScreen:
+                name: "home_screen"
+                id: home_screen
+        MDNavigationDrawer :
+            id : nav_drawer
+            BoxLayout :
+                orientation : 'vertical'
+                spacing : '8dp'
+                padding : '8dp'
+                ImageButton:
+                    id: profile
+                    source: app.img_source_path
+                    canvas.before:
+                        Color:
+                            rgb: app.theme_cls.primary_color if self.state == 'normal' else utils.get_color_from_hex("#66b2b2")
+                        Rectangle:
+                            size: self.size
+                            pos: self.pos
+                    on_release:
+                        nav_drawer.toggle_nav_drawer()
+                        app.change_screen("profilephoto_screen", direction='right', mode='push')
+                MDLabel :
+                    text : 'Profile Picture'
+                    font_style : 'Subtitle1'
+                    size_hint_y : None
+                    height : self.texture_size[1]
+                MDLabel :
+                    text : 'Witaj poszukiwaczu krasnali!'
+                    font_style : 'Caption'
+                    size_hint_y : None
+                    height : self.texture_size[1]
+                ScrollView :
+                    MDList :
+                        OneLineIconListItem :
+                            text : 'Tryb jasny / ciemny'
+                            on_release:
+                                app.show_theme_picker()
+                                nav_drawer.toggle_nav_drawer()
+                            IconLeftWidget:
+                                icon: 'theme-light-dark'
+                        OneLineIconListItem :
+                            text : 'Zebrane krasnale'
+                            on_release:
+                                app.go_to_favourite_dwarf()
+                                nav_drawer.toggle_nav_drawer()
+                            IconLeftWidget:
+                                icon: 'checkbox-multiple-outline'
