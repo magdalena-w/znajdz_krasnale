@@ -1,0 +1,6 @@
+# Virtual environments
+/*.venv/
+/.idea/
+# Cache
+/cache/
+/__pycache__/

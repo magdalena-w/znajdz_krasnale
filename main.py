@@ -20,15 +20,15 @@ class MainApp(MDApp):
     current_lat = 51.107883
     current_lon = 17.038538
 
-    if os.path.isfile("profile_source.txt"):
-        with open("profile_source.txt", "r") as f:
+    if os.path.isfile("resources/text/profile_source.txt"):
+        with open("resources/text/profile_source.txt", "r") as f:
             some_path = f.read()
             if len(some_path) > 0:
                 img_source_path = some_path
             else:
-                img_source_path = "empty.jpg"
+                img_source_path = "resources/images/empty.jpg"
     else:
-        img_source_path = "empty.jpg"
+        img_source_path = "resources/images/empty.jpg"
 
     def on_start(self):
         self.theme_cls.primary_palette = "Teal"
