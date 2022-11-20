@@ -6,9 +6,15 @@
     lat: 51.107883
     lon: 17.038538
     zoom: 12
-    double_tap_zoom: True
+    double_tap_zoom: False
     on_zoom:
         self.zoom = 12 if self.zoom < 12 else self.zoom # set minimum zoom = 12
+
+    on_lat:
+        self.start_getting_krasnals_in_fov()
+    on_lon:
+        self.start_getting_krasnals_in_fov()
+
     GpsBlinker:
         lat: root.lat
         lon: root.lon

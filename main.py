@@ -7,6 +7,8 @@ from kivy.core.window import Window
 from homemapview import HomeMapView
 from homegpshelper import HomeGpsHelper
 
+import sqlite3
+
 import os
 
 Window.size = (375, 750)
@@ -19,9 +21,11 @@ class HomeScreen(Screen):
 class MainApp(MDApp):
     current_lat = 51.107883
     current_lon = 17.038538
+    connection = None
+    cursor = None
 
-    if os.path.isfile("resources/text/profile_source.txt"):
-        with open("resources/text/profile_source.txt", "r") as f:
+    if os.path.isfile("resources/data/profile_source.txt"):
+        with open("resources/data/profile_source.txt", "r") as f:
             some_path = f.read()
             if len(some_path) > 0:
                 img_source_path = some_path
@@ -37,6 +41,9 @@ class MainApp(MDApp):
 
         # Initialize GPS
         HomeGpsHelper().run()
+        # Connect to database
+        self.connection = sqlite3.connect("resources/data/krasnale.db")
+        self.cursor = self.connection.cursor()
 
     def change_screen(self, screen_name, direction='forward', mode=""):
         # Get the screen manager from the kv file.
