@@ -68,5 +68,4 @@ class MainApp(MDApp):
             self.theme_cls.theme_style = "Light"
             self.theme_cls.primary_hue = "200"
 
-
 MainApp().run()

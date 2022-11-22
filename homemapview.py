@@ -36,9 +36,14 @@ class HomeMapView(MapView):
     def add_krasnal(self, krasnal):
         #Create a marker for the krasnal
         marker = KrasnalMarker(lat=krasnal[0], lon=krasnal[1])
+        marker.name = krasnal[2]
+        pathname =  (krasnal[2]+".jpg").replace(" ", "_")
+        marker.path += pathname
+        print(marker.path)
         #Add the marker to the map
         self.add_widget(marker)
 
         #Keep track of the marker's name
         self.krasnal_names.append(krasnal[2])
+        
         pass

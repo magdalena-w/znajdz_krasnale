@@ -7,8 +7,10 @@
     lon: 17.038538
     zoom: 12
     double_tap_zoom: False
+    
     on_zoom:
         self.zoom = 12 if self.zoom < 12 else self.zoom # set minimum zoom = 12
+        self.start_getting_krasnals_in_fov()
 
     on_lat:
         self.start_getting_krasnals_in_fov()
