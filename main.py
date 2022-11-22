@@ -21,6 +21,8 @@ class HomeScreen(Screen):
 class MainApp(MDApp):
     current_lat = 51.107883
     current_lon = 17.038538
+    
+    # For database connection later on
     connection = None
     cursor = None
 
@@ -38,6 +40,7 @@ class MainApp(MDApp):
         self.theme_cls.primary_palette = "Teal"
         self.theme_cls.primary_hue = "200"  # "500"
         self.theme_cls.theme_style = "Light"
+        
 
         # Initialize GPS
         HomeGpsHelper().run()
@@ -45,20 +48,25 @@ class MainApp(MDApp):
         self.connection = sqlite3.connect("resources/data/krasnale.db")
         self.cursor = self.connection.cursor()
 
-    def change_screen(self, screen_name, direction='forward', mode=""):
+    def change_screen(self, screen_name="home_screen", direction="None", mode="push"):
         # Get the screen manager from the kv file.
         screen_manager = self.root.ids.screen_manager
-
-        if direction == "None":
-            screen_manager.transition = NoTransition()
-            screen_manager.current = screen_name
-            return
-
-        screen_manager.transition = CardTransition(direction=direction, mode=mode)
+        screen_manager.transition = CardTransition(direction=direction, mode=mode) if direction != "None" else NoTransition()
         screen_manager.current = screen_name
-
-        if screen_name == "home_screen":
-            self.root.ids.titlename.title = "Znajdz krasnala"
+        
+        # Changes screen title to one defined in the screen in .kv file
+        self.root.ids.titlename.title = screen_manager.get_screen(screen_name).title
+            
+    def change_theme(self):
+        if (self.theme_cls.theme_style == "Light"):
+            self.theme_cls.primary_palette = "Blue"
+            self.theme_cls.theme_style = "Dark"
+            self.theme_cls.primary_hue = "500"
+            # For some reason doesn't change text colors.
+        else:
+            self.theme_cls.primary_palette = "Teal"
+            self.theme_cls.theme_style = "Light"
+            self.theme_cls.primary_hue = "200"
 
 
 MainApp().run()
