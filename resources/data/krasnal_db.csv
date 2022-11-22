@@ -1,3 +1,727 @@
-x,y,name
-51.112158,17.059631,Babelek Chlaptus
-51.108669,17.065203,Automatek
+51.09501;17.05871;100matolog;Krakowska 26;Beata Zwola�ska-Ho�od;"Wydzia� Lekarsko-Stomatologiczny
+Uniwersytetu Medycznego
+im. Piast�w �l�skich"
+51.11839;17.04189;Adwokatka;Prusa 1/50;;CHC Kancelaria Adwokacka
+51.13475;17.02154;Agorek;Serbska 5A;Micha� Staszczak;"Centrum Kultury
+�Agora�"
+51.11279;16.98441;[List];Strzegomska 46-56;Tomasz Moczek;Wroc�awski Park Biznesu
+51.10966;17.03169;[List];Rynek Ratusz 1;Marta Mirynowska;Muzeum Sztuki Mieszcza�skiej
+51.09266;17.08131;Amrest;Mi�dzyrzecka 4;Grzegorz �agowski;Pa�ac Hollender�w
+51.11094;17.01943;Anka;"Sokolnicza 7/17
+pawilon 37";Tomasz Moczek;"Galeria Panny M�odej
+�Bellissima�"
+51.13000;17.04278;Antonio Okulista;Zak�adowa 11;Jan �elbromski;Wroc�awskie Centrum Okulistyczne
+51.10213;17.03041;Antykwarek;plac Tadeusza Ko�ciuszki 15-14;Tomasz Moczek;"antykwariat
+�DAES�"
+51.09074;17.03320;[List];Borowska 99;Tomasz Moczek;Aquapark Wroc�aw
+51.11400;17.08443;Archimax;Miko�aja Kopernika 19;Beata Zwola�ska-Ho�od;Dom Maxa Berga
+51.09361;17.05858;[List];Krakowska 37-45;Tomasz Moczek;"siedziba
+Artgeist.pl"
+51.11221;17.03039;Atlasik;�aciarska 4;Tomasz Moczek;"Business Centre
+�Save The World�"
+51.05703;17.03286;"Aurer
+(Anielski)";Gen. S. Grota Roweckiego 114b;Piotr Maka�a;Osiedle Aura
+51.10867;17.06520;Automatek;�ukasiewicza 7/9;Tomasz Moczek;"Wydzia� Mechaniczny
+Politechniki Wroc�awskiej"
+51.11489;17.04482;Baga�owy;�wi�tego Idziego 2;nieznany;Hotel im. Jana Paw�a II
+51.12259;16.98338;Bajkusia;K�odnicka 22;Beata Zwola�ska-Ho�od;Przedszkole �Bajka�
+51.12259;16.98338;[List];Ku�nicza 17-19;Marcin �uczkowski;IV Oddzia� Banku Zachodniego WBK
+51.10999;17.03029;Banku� Pieni��ek;Rynek 9/11;Beata Zwola�ska�Ho�od;"kamienica
+Pod Siedmioma Elektorami"
+51.11286;17.01920;Bardu�;"Jacka Kaczmarskiego
+plac Solidarno�ci 1/3/5";Beata Zwola�ska�Ho�od;"Zarz�d Regionu
+NSZZ Solidarno��"
+51.11877;16.98935;Bartek z Butolandii;"Mi�sk Mazowiecki
+gen. K. Sosnkowskiego 83";Pawe� Os�bka;"siedziba firmy
+Bartek S.A."
+51.10991;17.03214;Bartonik;Sukiennice 3/4;Beata Zwola�ska�Ho�od;"lodziarnia
+�Barton�"
+51.10557;17.03453;[List];Teatralna 10/12;Tomasz Moczek;"Wroc�awskie Centrum Spa
+basen nr 1"
+51.11014;17.03300;Bawarka;Rynek Ratusz 26;Beata Zwola�ska�Ho�od;"restauracja
+�Bierhalle�"
+51.11563;17.02538;Bamboszek;ksi�dza Piotra Skargi 24-28;Tomasz Moczek;Hotel B&B
+51.11216;17.05963;B�belek Chlaptu�;plac Grunwaldzki 22;Marcin �uczkowski;Pasa� Grunwaldzki
+51.17308;17.17467;Beemicia;"D�ugo��ka
+Wroc�awska 56";Piotr Maka�a;"Team Pasierbski
+salon BMW"
+51.10816;17.03811;BEAnka;Krawiecka 1-3;Tomasz Moczek;Justin Center
+51.11563;17.02538;Berna� i Warchle�;Ksi�cia Witolda 49;Marta Mirynowska;Klinika �Platinum�
+51.09854;17.02452;Bellboy;Powsta�c�w �l�skich 7b;Piotr Maka�a;Hotel Wroc�aw
+51.10557;17.03282;Bibliofil;plac Tetralny 5;Pawe� Os�bka;Mediateka
+51.09398;17.01993;Biegacz;"Sky Tower
+Gwia�dzista 62";Tomasz Moczek;Towarzystwo Ubezpiecze� Europa
+51.11850;17.09592;Biegaj�o;Stadion Olimpijski;Beata Zwola�ska�Ho�od;M�odzie�owe Centrum Sportu
+51.10606;17.03911;"Binio
+(Plastu� Biniu)";Piotra Skargi 23;Jadwiga Bie� Wojciech Ma�ek;Zesp� Szk� Plastycznych im. Stanis�awa Kopysty�skiego
+51.08347;17.05367;Boliz�bek;Nyska 70B;Marta Mirynowska;Stomatologia REGMED
+51.11635;17.04728;Botanik;Henryka Sienkiewicza 23;Marcin �uczkowski;Ogr�d Botaniczny
+51.11177;16.97150;Budinpolek;Traktatowa 1;Beata Zwola�ska�Ho�od;"siedziba firmy
+�Budinpol�"
+51.11283;17.03147;Budoludki;Odrza�ska 22;Beata Zwola�ska�Ho�od;Dolno�l�ska Okr�gowa Izba In�ynier�w Budownictwa
+51.09906;16.99748;Bumarek i Fadromka;Grabiszy�ska 163;Beata Zwola�ska�Ho�od;"siedziba firmy
+�Bumar�"
+51.11678;16.99689;Ceneusz;Legnicka 48G;Piotr Maka�a;Ceneo.pl
+51.15828;17.00783;Centrostalu�;Pe�czy�ska 4;Piotr Maka�a;Centrostal
+51.17245;17.00425;Cebitek;Kominiarska 42b;Piotr Maka�a;CebitGroup
+51.11333;16.99897;Cermigiusz;Strzegomska 38-40;Beata Zwola�ska�Ho�od;Cermag sp. z o.o.
+51.11178;17.02978;Chemik;Ignacego �ukasiewicza 2;nieznany;"Wydzia� Chemiczny (A2)
+Politechniki Wroc�awskiej"
+51.10783;17.06319;Chemik II;Cypriana Kamila Norwida 1/3;Tomasz Moczek;"Wydzia� Chemiczny
+Politechniki Wroc�awskiej"
+51.10917;17.06744;Chirurg;Marii Curie-Sk�odowskiej 65;Bogna Kozera-Radomska;"Klinika Chirurgii Przewodu
+Pokarmowego i Chirurgii Og�lnej"
+51.10458;17.03162;"Chodziarz
+(Johnnie Walker)";�widnicka 38A;Beata Zwola�ska�Ho�od;Pogodynka
+51.11706;17.03751;Chu�cioszka i Ma�y Krasnal;Wyspa Bielarska;nieznany;K�adka �abia
+51.11042;17.03363;Ciastu� i Amorinek;Wita Stwosza 1-2;Beata Zwola�ska�Ho�od;"kafejka
+amorinio.pl"
+51.11178;17.02978;Chrapek;Kie�ba�nicza 24-25;Beata Zwola�ska�Ho�od;"hotel
+�Patio�"
+51.12731;17.02539;Clara;Kleczkowska 45;Beata Zwola�ska�Ho�od;"Centrum Szkoleniowe
+i Salon Sprzeda�y Clarena"
+51.09739;17.03347;Concierge;Sucha 1;Grzegorz �agowski;Galeria Wroclavia
+51.07472;17.00344;Consulencjusz Italicus;Wawrzyniaka 6;nieznany;Bosetti Global Consulting
+51.13347;17.06597;Costek;Macieja Miechowity 2;nieznany;Hurtownia Costa
+51.11145;17.02739;Czajczy�ski;Bia�osk�rnicza 10;Jan �elbromski;"Czajczy�ski
+nieruchomo�ci"
+51.12078;17.05574;D�brek Pierwszy;Nowowiejska 78;Beata Zwola�ska�Ho�od;"Szko�a Podstawowa nr 1
+im. Marii D�browskiej"
+51.12668;16.96635;Dedaliusz;Bulwar Dedala;Tomasz Moczek;osiedle Lokum da Vinci
+51.12641;17.10517;Dekoralek;Kwidzy�ska 8;Agata Gwizd;Centrum Dekoral Professional
+51.10609;17.03145;[List];�widnicka 34;Grzegorz �agowski;Hotel Monopol
+51.10947;17.02919;Demokracja;Plac Solny;Jean Louis Kotagomba;Komitet Obrony Demokracji
+51.15515;17.14059;DHL;Bierutowska 75;Grzegorz �agowski;DHL
+51.07628;17.03206;Diagnostek;O�binska 32;Grzegorz �agowski;Pracownia diagnostyki obrazowej Affidea
+51.07628;17.03206;Diagnozjusz;Borowska 211;Beata Zwola�ska�Ho�od;"Wydzia� Farmacji
+Uniwersytetu Medycznego"
+51.10967;17.02919;Dialogomir;plac Solny;Grzegorz �agowski;"p�nocno-zachodni
+naro�nik placu"
+51.10900;17.02954;D�ugi;plac Solny 16;Marcin �uczkowski;Stara Gie�da
+51.12261;16.92081;Dobrotek;Objazdowa 50;Marcin �uczkowski;"Kancelaria Prawa
+Gospodarczego KOKSZTYS
+(zlicytowany podczas XIV fina�u
+Wielkiej Orkiestry
+�wi�tecznej Pomocy)"
+51.10483;17.11767;Doktor Basia i Krasnal�tko;Canaletta 53;Beata Zwola�ska�Ho�od;Gabinet Neurologii Dzieci�cej dr Barbara Ujma-Czapska
+51.14137;17.02615;Doktor Cornelius;Bezpieczna 2;Marlena Zakrzewska;Klinika Cornelius Dental
+51.13897;16.99150;Drukarz;Osobowicka 89;"Marta Mirynowska
+Ma�gorzata Kaszy�ska";"Przedsi�biorstwo poligraficzne
+�KEA�"
+51.11456;17.04333;Drukarz Kacper;Katedralna 1/3;Grzegorz �agowski;"Wydawnictwa Wroc�awskiej Ksi�garni
+Archidiecezjalnej TUM"
+51.10999;17.03335;"Dryndek
+(Gadofonik)";Rynek 35;Tomasz Moczek;"Piwiarnia
+�Bernard�"
+51.09886;17.03676;[List];J�zefa Pi�sudskiego 105;Marta Mirynowska;"dworzec kolejowy
+Wroc�aw G��wny"
+51.09886;17.03676;[List];J�zefa Pi�sudskiego 105;Marta Mirynowska;"dworzec kolejowy
+Wroc�aw G��wny"
+51.09886;17.03676;[List];J�zefa Pi�sudskiego 105;Tomasz Moczek;"dworzec kolejowy
+Wroc�aw G��wny"
+51.11028;17.03353;Dziupelka;Rynek 39/40;Grzegorz �agowski;Lodziarnia �Dzioopla�
+51.14160;17.03490;Dwudziestek;Henryka Kamie�skiego 24;Beata Zwola�ska�Ho�od;Szko�a Podstawowa nr 20
+51.10600;17.10614;D�inn;Sp�dzielcza 2a;Beata Zwola�ska�Ho�od;XI Liceum Og�lnokszta�c�ce im. Stanis�awa Konarskiego
+51.09393;17.06187;Edukacjusz;Krakowska 56-62;?;"Wy�sza Szko�a Zarz�dzania
+�Edukacja�"
+51.09038;17.02613;Ekonomek;Komandorska 118/120;Beata Zwola�ska�Ho�od;"Uniwersytet Ekonomiczny
+budynek A1"
+51.10455;17.04313;Ekonomik;Henryka Worcella 3;Beata Zwola�ska�Ho�od;"Zesp� Szk�
+Ekonomiczno-Administracyjnych
+im. Marii D�browskiej"
+51.11165;17.01029;Elwru� Lutowniczek;Braniborska 57;Beata Zwola�ska�Ho�od;"Elektroniczne Zak�ady Naukowe
+im. Jeana Fr�d�rica Joliot-Curie"
+51.11279;16.98441;[List];"Biskupice Podg�rne
+ulica LG 1";Beata Zwola�ska�Ho�od;"fabryka
+LG Display"
+51.14539;17.02483;Endress i Hauser;Wo�owska 11;Piotr Maka�a;Endress&Hauser Polska
+51.10955;17.03401;Esencjusz;Kurzy Targ 3;Katarzyna Nowak;"pub
+�Bistro Przemys�owe�"
+51.10750;17.03069;Eskulapek;Kazimierza Wielkiego 45;Beata Zwola�ska�Ho�od;Dolno�l�ska Izba Lekarska
+51.10044;17.03421;Europejczyk;J�zefa Pi�sudskiego 88;Beata Zwola�ska�Ho�od;Hotel Europejski
+51.10991;17.04958;Faksymilka;plac Powsta�c�w Warszawy 1;Tomasz Moczek;Urz�d Wojew�dzki
+51.11116;17.03076;Farciarz;Odrza�ska 39/40;Beata Zwola�ska�Ho�od;"sklep z pami�tkami
+Kamieniczka �Ma�gosia�"
+51.07628;17.03206;Farmaceuta Akademicki;Borowska 211;Beata Zwola�ska�Ho�od;"Wydzia� Farmacji
+Uniwersytetu Medycznego"
+51.08088;17.05548;Farmacjusz;Zi�bicka 40;Beata Zwola�ska�Ho�od;US Pharmacia
+51.09556;16.97931;Fatu�;Grabiszy�ska 281;"Marta Mirynowska
+Piotr Maka�a";Fabryka Automat�w Tokarskich
+51.11534;17.10205;Fizolek;Adama Mickiewicza 58;Marta Mirynowska;"Wydzia� Fizjoterapii AWF (P-5)
+Akademii Wychowania Fizycznego"
+51.10674;17.03186;Florianek;�widnicka 21/23;Grzegorz �agowski;Dom towarowy Solpol
+51.10944;17.03208;Franek Moczymordka;Rynek Ratusz 1;Grzegorz �agowski;Piwnica �widnicka
+51.09477;17.03746;Freudek;Dawida 1a;Marta Mirynowska;"Instytut Psychologii
+Uniwersytetu Wroc�awskiego"
+51.11285;16.98199;Fuger Bankowy;Fabryczna 29/31;Beata Zwola�ska�Ho�od;Wy�sza Szko�a Bankowa
+51.08154;17.03628;Gasiorek;Borowska 138;Tomasz Moczek;"Wojew�dzka Komenda
+Stra�y Po�arnej"
+51.08154;17.03628;Gastronomek;Kamienna 86;Iga M�kowska;Zesp� Szk� Gastronomicznych
+51.09323;17.05907;Gaviusz;Krakowska 13;Marek Stankiewicz;Instal-Konsorcjum
+51.10112;17.03968;Gazeciarz;plac Tadeusza Ko�ciuszki;Ma�gorzata Kaszy�ska;kiosk z gazetami
+51.11464;17.04263;Gazu�;Most Tumski;Tomasz Moczek;latarnia gazowa nr 4
+51.11621;17.03065;Geolog;Wojciecha Cybulskiego 30-34;Marcin �uczkowski;"Instytut Nauk Geologicznych
+Uniwersytetu Wroc�awskiego"
+51.10900;17.02949;Gie�du�;plac Solny 16;Tomasz Moczek;Stara Gie�da
+51.11017;17.07310;Gilbert;Parkowa 8;Beata Zwola�ska�Ho�od;Hotel �Grape�
+51.13759;17.02815;Gimnazjalista;Czeska 40;Alicja Zgraja;"Gimnazjum nr 27
+im. Ossolineum"
+51.10828;17.02686;Gladiatorek;Krupnicza 5;nieznany;Sklep Gladiator-Fight
+51.10731;17.05681;Glukozjusz Herba Cukrzycki;Wybrze�e Wyspia�skiego 20;Beata Zwola�ska�Ho�od;Apteka Herba
+51.11567;17.05136;Golasek;Wyszy�skiego 39;Tomasz Moczek;Szyciokawiarnia Nr 1
+51.13759;17.02815;Googlak;plac Bema 2;nieznany;Bema Plaza
+51.07176;17.03406;Goldu�;Jerzego Kukuczki 5;nieznany;"Centrum Medyczne
+GOLDEN CARE"
+51.10999;17.03110;Go��bnik;Rynek Ratusz 2;Marcin �uczkowski;"parapet restauracji
+�Pod Papugami�"
+51.17509;17.02306;Go�cinek;Su�owska 39;Beata Zwola�ska�Ho�od;"hotel
+�Jasek�"
+51.10862;17.03506;Grajek i Meloman;O�awska 10;Beata Zwola�ska�Ho�od;kwiaciarnia
+51.11223;17.05865;"Grun-Waldek
+(Giermek)";plac Grunwaldzki 22;Marcin �uczkowski;Pasa� Grunwaldzki
+51.11142;17.03439;Gwaru�;Kotlarska 41;;Okr�gowy Urz�d G�rniczy
+51.09911;17.02595;HaPek;Powsta�c�w �l�skich 7A;Beata Zwola�ska�Ho�od;"Centrum Biurowe
+�Globis�"
+51.10552;17.03928;Harcu�;Nowa 6;Beata Zwola�ska�Ho�od;"Chor�giew Dolno�l�ska ZHP
+im. hm. Stefana Mirowskiego"
+51.11061;17.03364;Harivansh Rai Bachchan;"Ku�nicza
+Wita Stwosza";nieznany;"salon jubilerski
+�Kruk�"
+51.10919;17.00071;Harfu�;Robotnicza 52A;Tomasz Moczek;"Dolno�l�skie Centrum Rowerowe
+Harfa-Harrysonn"
+51.18589;17.22575;Hewu�;Byk�w, ul.Przemys�owa 1;nieznany;HEWEA
+51.10491;17.07439;Hipoczy�ciciel;Zygmunta Wr�blewskiego 1-5;Marcin �uczkowski;"Ogr�d Zoologiczny
+przy wybiegu dla hipopotam�w"
+51.11079;17.03935;Hohelka;plac Nowy Targ 27;Ma�gorzata Kaszy�ska;Bar �Jacek i Agatka�
+51.11605;17.06610;Honorek;Czerwonego Krzy�a 5/9;Tomasz Moczek;"Regionalne Centrum
+Krwiodawstwa i Krwiolecznictwa"
+51.18188;17.02559;Hortu�;"Psary
+G��wna 1C";Beata Zwola�ska�Ho�od;"Galeria Ogrodnicza
+Zielone Centrum"
+51.12483;16.99761;Hugonek;Jelenia 7;Beata Zwola�ska�Ho�od;"Gimnazjum nr 1
+im. Hugona Steinhausa"
+51.12483;16.99761;Hulk i Ryszard;Kie�czowska 177;Tomasz Moczek;Senso del Gusto Ristorante&Pizzeria
+51.11414;17.03055;Hydrotechnik;Mosty Pomorskie;nieznany;"jaz Elektrowni
+Wodnej Wroc�aw II"
+51.10781;17.07444;Iasek;Wystawowa 1;Tomasz Moczek;"siedziba firmy
+�IASE�"
+51.08198;17.02374;Implu�;�l�na 118;Grzegorz �agowski;"siedziba firmy
+�Impel�"
+51.12520;16.91314;Insercik;Jerzmanowska 2;Marcin �uczkowski;"siedziba firmy
+�InsERT�"
+51.11814;17.04928;Inwigilu�;Jana Matejki 6;;"Rada Wojew�dzka
+Sojuszu Lewicy Demokratycznej"
+51.10712;17.08364;IP-ek;Miko�aja Kopernika 5;Marta Mirynowska;"O�rodek Szkolenia
+Pa�stwowej Inspekcji Pracy
+im. prof. Jana Rosnera"
+51.13651;17.04051;Islamek;aleja Jana Kasprowicza 24;nieznany;Islamic Center
+51.11250;17.03241;Italudek;Wi�zienna 21;Luca Montagliani;"Pizzeria Trattoria
+�Capri�"
+51.11133;17.03379;Janinek;Ku�nicza 57/58;nieznany;"Salon Kosmetyczny
+�Babor�"
+51.11097;17.02811;J�dru� i Zo�ka;Rze�nicza 28-31;Tomasz Moczek;"Coctail Bar
+Max&Dom Whisky"
+51.12022;17.09681;Tomek J�drzejak i dwa krasnale;Ignacego Jana Paderewskiego 35;nieznany;Stadion Olimpijski
+51.13000;17.04278;Julian Okulista;Zak�adowa 11;Jan �elbromski;Wroc�awskie Centrum Okulistyczne
+51.11061;17.03333;Kacu�;Rynek 42/43;Piotr Maka�a;Apteka �Pod Podw�jnym Z�otym Or�em�
+51.11087;17.02356;Kanapownik;Ruska 37/39;Tomasz Moczek;"Sklep
+�Domar�"
+51.06016;17.00361;Kandarek;"Zwyci�ska 9-23
+lokal 7";?;Salon Urody �Kandara�
+51.10886;17.03378;Kantorki;O�awska 5;Tomasz Moczek;Kantor �Gant�
+51.11026;17.12553;Kapitan Jack Port;Cha�upnicza 55;Grzegorz �agowski;Osiedle Nowy Port
+51.11385;17.04178;Kapita�skie Bli�niaki;"przysta�
+Bulwar Piotra W�ostowica";Beata Zwola�ska�Ho�od;Statki �Nereida� i �Wiktoria�
+51.10127;17.03014;[List];J�zefa Pi�sudskiego 66;Wojciech Nowak;Olympic Casino
+51.08260;17.05301;[List];Armii Krajowej;;Siedziba g��wna Kaufland Polska
+51.11455;17.04382;"Kawiarek
+(Ostrowiak)";Katedralna 6;Piotr Maka�a;Cafeteria Chic
+51.12506;17.07392;Kazio;Ludwika Krzywickiego 8;Piotr Maka�aMarta Mirynowska;prywatna posesja
+51.09703;16.99601;Kibic;Oporowska 62;Marcin �uczkowski;WKS �l�sk Wroc�aw
+51.10906;17.02653;Kinoman m�odszy;Kazimierza Wielkiego 19a-21;Beata Zwola�ska�Ho�od;"kino
+�Nowe Horyzonty�"
+51.11796;17.06716;Klaun;Odona Bujwida 44;Beata Zwola�ska�Ho�od;"KlinikaTransplantacji Szpiku,
+Onkologii i Hematologii Dzieci�cej"
+51.10964;17.03432;Klucznik;Szewska 74;Marcin �uczkowski;"siedziba firmy
+�Gant Development�"
+51.11256;17.05689;Kolanki;Marii Curie-Sk�odowskiej 12;nieznany;"siedziba firmy
+�Smith & Nephew�"
+51.10034;17.02853;Kolejarz;Wojciecha Bogus�awskiego 61;Tomasz Moczek;wiadukt kolejowy
+51.14302;16.86642;Kolejarz II;Jana Rubczaka 20;Tomasz Moczek;"stacja kolejowa
+Wroc�aw Le�nica"
+51.06324;17.08067;Kolejarze Brochowscy;Bieg�a 2;Beata Zwola�ska�Ho�od;"ko�ci�
+�w. Jerzego M�czennika
+i Podwy�szenia Krzy�a �wi�tego"
+51.10945;17.03316;Kolekcjoner;Rynek 31/32;Beata Zwola�ska�Ho�od;"dom handlowy �Feniks�
+IV pi�tro"
+51.17179;17.11606;Koncertu�;Paw�owicka 87/89;nieznany;Pa�ac Korn�w
+51.10922;17.02814;Konspirek;Zau�ek Solny;nieznany;Restauracja Konspira
+51.10906;17.03350;Koronu�;O�awska 2;nieznany;Hotel �Korona�
+51.10869;17.03300;Korpokrasnal;�widnicka 2-4;nieznany;Galeria Dizajn BWA Wroc�aw
+51.11063;17.03365;"Kowal
+(Ku�nik)";"Ku�nicza
+Wita Stwosza";Beata Zwola�ska�Ho�od;"salon jubilerski
+�Kruk�"
+51.09071;17.00003;Kownacek;J�zefa Hallera 77a;Beata Zwola�ska�Ho�od;"Przedszkole nr 141
+im. Marii Kownackiej"
+51.13726;16.97588;Kozanek;Go��ycka 4a;Beata Zwola�ska�Ho�od;"Przedszkole nr 110
+�Domek Krasnoludk�w�"
+51.10114;17.02872;Kika;Legnicka 21a;Marta Mirynowska;Biuro KiK
+51.11212;17.02876;"Krasnal Teatralny
+Wsp�czesny
+Powitalnik";Rze�nicza 12;Tomasz Moczek;"Teatr Wsp�czesny
+im. Edmunda Wierci�skiego"
+51.11221;17.03039;Krasnal z pi�k�;Stare Jatki 7/8;Tomasz Moczek;"Galeria
+�Domus�"
+51.10646;17.02708;"Krasnale Filharmonii
+Wroc�awskiej";plac Wolno�ci;;Orkiestra 21 krasnali
+51.10646;17.02708;"Krasnale Filharmonii
+Wroc�awskiej";plac Wolno�ci;;Dyrygent
+51.10646;17.02708;"Krasnale Filharmonii
+Wroc�awskiej";plac Wolno�ci;;Altowiolinista I
+51.10646;17.02708;"Krasnale Filharmonii
+Wroc�awskiej";plac Wolno�ci;;Altowiolinista II
+51.10646;17.02708;"Krasnale Filharmonii
+Wroc�awskiej";plac Wolno�ci;;Skrzypek I
+51.10646;17.02708;"Krasnale Filharmonii
+Wroc�awskiej";plac Wolno�ci;;Pierwszy Skrzypek
+51.10646;17.02708;"Krasnale Filharmonii
+Wroc�awskiej";plac Wolno�ci;;Skrzypek II
+51.10646;17.02708;"Krasnale Filharmonii
+Wroc�awskiej";plac Wolno�ci;;Kontrabasista I
+51.10646;17.02708;"Krasnale Filharmonii
+Wroc�awskiej";plac Wolno�ci;;Tubista
+51.10646;17.02708;"Krasnale Filharmonii
+Wroc�awskiej";plac Wolno�ci;;Kontrabasista II
+51.10646;17.02708;"Krasnale Filharmonii
+Wroc�awskiej";plac Wolno�ci;;Puzonista
+51.10646;17.02708;"Krasnale Filharmonii
+Wroc�awskiej";plac Wolno�ci;;Puzonista Basowy
+51.10646;17.02708;"Krasnale Filharmonii
+Wroc�awskiej";plac Wolno�ci;;Wiolonczelista I
+51.10646;17.02708;"Krasnale Filharmonii
+Wroc�awskiej";plac Wolno�ci;;Tr�bacz
+51.10646;17.02708;"Krasnale Filharmonii
+Wroc�awskiej";plac Wolno�ci;;Wiolonczelista II
+51.10646;17.02708;"Krasnale Filharmonii
+Wroc�awskiej";plac Wolno�ci;;Waltornista
+51.10646;17.02708;"Krasnale Filharmonii
+Wroc�awskiej";plac Wolno�ci;;Klarnecista
+51.10646;17.02708;"Krasnale Filharmonii
+Wroc�awskiej";plac Wolno�ci;;Klarnecista Basowy
+51.10646;17.02708;"Krasnale Filharmonii
+Wroc�awskiej";plac Wolno�ci;;Flecista
+51.10646;17.02708;"Krasnale Filharmonii
+Wroc�awskiej";plac Wolno�ci;;Fagocista
+51.10646;17.02708;"Krasnale Filharmonii
+Wroc�awskiej";plac Wolno�ci;;Perkusista
+51.10646;17.02708;"Krasnale Filharmonii
+Wroc�awskiej";plac Wolno�ci;;Kotlarz
+51.10139;17.06792;[List];Ok�lna 2;nieznany;"Instytut Niskich Temperatur
+i Bada� Strukturalnych
+im. W�odzimierza Trzebiatowskiego PAN"
+51.12966;17.04462;Krasnale Promenad Wroc�awskich;Antoniego S�onimskiego;;"osiedle
+�Promenady Wroc�awskie�"
+51.10959;16.88002;Krasnale Przyl�dka Nadziei;Graniczna 190;Beata Zwola�ska�Ho�od;"Port Lotniczy
+im. Miko�aja Kopernika
+terminal pasa�erski"
+51.10833;17.02603;[List];�w. Antoniego 2/4;"Jos� Torres
+Beata Zwola�ska�Ho�od";�Pasa� Pokoyhof�
+51.10538;17.03310;[List];plac Teatralny 4;Pawe� Pawlak;"fontanna przed
+Teatrem Lalek"
+51.09881;17.02821;[List];Komandorska 21;Tomasz Moczek;"sklep
+�Epi�"
+51.09808;17.03782;Krasnalica;J�zefa Pi�sudskiego 105;Marta Mirynowska;"dworzec kolejowy
+Wroc�aw G��wny
+peron 2"
+51.09413;17.06181;Kreacjusz;"Krakowska 56-62
+budynek A";Stanis�aw Lenar;Lama Media
+51.12583;16.98094;"Kruszek z wr�belkiem
+�akomczuszkiem";Legnicka 158;Beata Zwola�ska-Ho�od;Cukiernia Wolak
+51.09477;17.02832;Kupczyk;Komandorska 66;Marcin �uczkowski;"Centrum Handlowe
+�Arena�"
+51.10935;17.09572;Kusy;Rafa�a Krajewskiego 1;Marta Mirynowska;"Szko�a podstawowa nr 45
+im. Janusza Kusoci�skiego"
+51.11097;17.03131;Lady Wolno��;Rynek 58;Grzegorz �agowski;Dolno�l�ska Biblioteka Publiczna im. Tadeusza Mikulskiego
+51.17300;17.17414;Landu� i Defcia;"D�ugo��ka
+Wroc�awska 56";Piotr Maka�a;"Team Pasierbski
+salon Land Rovera"
+51.11050;17.05934;Lappek;Zygmunta Janiszewskiego 8;Marta Mirynowska;"Wydzia� Elektryczny (D20)
+Politechniki Wroc�awskiej"
+51.10501;16.89965;Lata�ek;Plac Go��bi;Tomasz Moczek;"Port Lotniczy
+im. Miko�aja Kopernika
+terminal general aviation"
+51.10772;17.05083;Les�aw;Mazowiecka 17;Beata Zwola�ska�Ho�od;Jazz nad Odr�
+51.10992;17.03086;Leszko;Stanis�awa Skar�y�skiego 36;Beata Zwola�ska�Ho�od;Gitarowy Rekord Guinnessa
+51.12286;17.04242;Leo�;Franklina Delano Roosevelta 15;Beata Zwola�ska�Ho�od;przedszkole �Leonardo�
+51.11000;17.03186;Lion spod znaku lwa;Sukiennice 6;;Lions Clubs International
+51.08920;17.01723;Listonosz;Zygmunta Krasi�skiego 1;Beata Zwola�ska�Ho�od;Muzeum Poczty i Telekomunikacji
+51.11361;17.03333;Literatek vel Polonicus;Plac Uniwersytecki 1;Beata Zwola�ska�Ho�odSebastian Obst;Uniwersytet Wroc�awski
+51.10836;17.02699;Lombardzik;Krupnicza 3/1-B;Beata Zwola�ska�Ho�od;Lombard
+51.08909;17.00003;Lotnicy;J�zefa Hallera 52;Tomasz Moczek;"Centrum Handlowe
+�Borek�"
+51.09479;17.03700;Lottu�;Joannit�w 16;nieznany;IV Oddzia� LOTTO
+51.09927;17.04019;Luksik;plac Konstytucji 3 Maja 3;Tomasz Moczek;Luxsoft
+51.08854;17.01655;Luminator;Sudecka 96/97;Tomasz Moczek;Tauron Obs�uga Klienta
+51.11149;17.02605;Lunatyk;�w. Miko�aja 61-62;Marcin �uczkowski;"Kamienica
+pod Lunatykiem"
+51.09928;17.11203;Malarz Piotru�;Witolda Wojtkiewicza 16;Beata Zwola�ska�Ho�od;"prywatna
+posesja"
+51.11597;17.04051;"Marian
+(M�ynarz Tumski)";Wyspa S�odowa 10;Marcin �uczkowski;Hotel Tumski
+51.10661;17.03354;Marysia Pi�knisia;Widok 8;Tomasz Moczek;"Centrum Dermatologii
+Estetycznej ""Bag�aj"""
+51.11796;17.06716;Marzenka;Odona Bujwida 44;Beata Zwola�ska�Ho�od;"KlinikaTransplantacji Szpiku,
+Onkologii i Hematologii Dzieci�cej"
+51.15225;17.13226;Marzyciel;Bierutowska 65/67;Marta Mirynowska;UTC Aerospace Systems
+51.11278;17.01744;Ma(Ste)rche(Fek);�widnicka 53;nieznany;Restauracja Marche
+51.11040;17.05430;Matematyk;plac Grunwaldzki 2;Beata Zwola�ska�Ho�od;"Instytut Matematyczny
+Uniwersytetu Wroc�awskiego"
+51.10558;16.94877;Max i Fliz;Mi�ska 60A;Tomasz Moczek;"Sklep
+�Maz i Fliz�"
+51.11367;17.13219;Mechanik;Swojczycka 150;nieznany;"Serwisu Samochodowego
+BatMan"
+51.11844;17.09608;Medali�ci;Stadion Olimpijski;nieznany;World Games 2017
+51.09839;17.03116;Mellonik;Swobodna 1;Agata Gwizd-Leszczy�ska;"BNY Mellon
+Aquarius Business House"
+51.11836;17.01364;Metrolog;M�odych Technik�w 61/63;Beata Zwola�ska�Ho�od;Przy wej�ciu do Okr�gowego Urz�du Miar we Wroc�awiu
+51.11154;17.02779;Miko�aj Zi�ko;�w. Miko�aja 65/68;Tomasz Moczek;Herbapol Wroc�aw S.A.
+51.07109;17.00235;Mi�ostek;Zimowa 14;Stanis�aw Wysocki;"prywatna
+posesja"
+51.11911;17.03860;Mi� Mokrej �apki;Jedno�ci Narodowej 47;Beata Zwola�ska�Ho�od;"Klubokawiarnia
+Cafe R�wnik"
+51.12453;17.02893;Modru� i Odru�;Odrza�ska 24/29;;"restauracja
+�Modra Odra�"
+51.12453;17.02893;Moteusz;Stanis�awa Staszica 20;Piotr Rychel;"sklep
+e-dziewiarka.pl"
+51.10957;17.03453;Motocyklista;Szewska 10;Mika Matylda;Katedra �w. Marii Magdaleny
+51.10954;17.02428;Murarz;�w. Antoniego 23;Tomasz Moczek;Cech Rzemios� Budowlanych
+51.10738;16.94846;Myjek;Graniczna 2;?;"myjnia samochodowa
+�Aquamio�"
+51.06993;17.01082;My�lichwilek;Wojszycka 1;Beata Zwola�ska�Ho�od;"Szko�a Podstawowa nr 64
+im. W�adys�awa Broniewskiego"
+51.10954;17.02428;Narcy�;Narcyzowa 6;Beata Zwola�ska�Ho�od;"Przedszkole nr 59
+�U Krasnala pod Narcyzem�"
+51.11153;17.00118;Narz�dziownik;Robotnicza 40;Marcin �uczkowski;"Sklep
+Elektro Serwis"
+51.11475;17.03221;Nawigator;Ksi�cia Witolda 2;Grzegorz �agowski;Marina Topacz
+51.11017;17.03919;Neptunek;Purkyniego 1;;"Klub muzyczny
+�Stary Klasztor�"
+51.10575;17.07800;Niesamowitek;Zygmunta Wr�blewskiego 2a;nieznany;Niesamowita Polska
+51.10876;17.03455;Niespodzianek;O�awska 6;nieznany;Souvenirs& Toys
+51.11850;17.09592;Niewypa�ek;Stadion Olimpijski;Beata Zwola�ska�Ho�od;M�odzie�owe Centrum Sportu
+51.06499;16.98474;Niezabudka;Wa�brzyska 2A;Tomasz Moczek;"Przedszkole nr 56
+�Niezapominajka�"
+51.11106;17.03203;Numizmatyk;Wi�zienna 1/4;Marlena Zakrzewska;"Sklep Numizmatyczny
+�U Rysia�"
+51.11473;17.03133;O�Barek;Ksi�cia Witolda 1;Beata Zwola�ska�Ho�od;OKWineBar
+51.11069;17.03277;Obie�ysmak;Rynek 48;Marcin �uczkowski;"Restauracja
+Pizza Hut"
+51.10761;17.03218;Ob�artuch;�widnicka 13;Beata Zwola�ska�Ho�od;"Restauracja KFC
+�Delikatesy�"
+51.11069;17.03277;Oddludek;Wi�zowa;Beata Zwola�ska�Ho�od;Promenada Staromiejska
+51.11630;17.04717;"Ogorza�ek
+i Opi�ek";�w. Miko�aja 81;Beata Zwola�ska�Ho�od;Bar Przedwojenna
+51.11630;17.04717;Ogrodnik i Kierownik;Henryka Sienkiewicza 23;Marcin �uczkowski;Ogr�d Botaniczny
+51.14778;17.07886;Okniarek i Pan Porada;Przejazdowa 13;Tomasz Moczek;FixOkna
+51.11871;17.00996;Olimpijczyk;�cinawska 21;Beata Zwola�ska�Ho�od;Szko�a Podstawowa nr 46 im. Polskich Olimpijczyk�w
+51.11998;17.04968;O�biniusz;Boles�awa Prusa 64;Beata Zwola�ska�Ho�od;"Szko�a Podstawowowa nr 107
+im. Piotra W�ostowica"
+51.11482;16.97375;"Onku�
+(Germazowy
+Onku�)";Strzegomska 139;"Beata Zwola�ska�Ho�od
+oraz dzieci z Kliniki
+Transplantacji Szpiku,
+Onkologii i Hematologii Dzieci�cej";"Dom Samochodowy
+Germaz"
+51.12281;17.04239;Opa�ek;Irkucka 11;;punkt przedszkolny �Kosza�ki Opa�ki�
+51.10934;17.07376;"Opiekunek
+i Krasnomale�stwo";Parkowa 2;Beata Zwola�ska�Ho�od;"Zesp� Plac�wek
+Opieku�czo-Wychowawczych
+�Dzieci�cy Dom�"
+51.07429;17.03104;"Ortopeda
+(Crasnallus
+Orthopedicus)";Borowska 213;Beata Zwola�ska�Ho�od;"Uniwersytecki Szpital Kliniczny
+im. Jana Mikulicza-Radeckiego"
+51.07429;17.03104;Orzech;Bujwida 49-51;Grzegorz Niemyjski;Ko�ci� �w. Wawrzy�ca
+51.11049;17.03252;Orze�wiacz;Rynek Ratusz;nieznany;"pierzeja p�nocna rynku
+wytwarza kurtyn� wodn�"
+51.11395;17.03729;"Ossolineusz
+(Ossolinek
+Ossoli�czyk)";Zau�ek Ossoli�skich;Marcin �uczkowski;Zak�ad Narodowy im. Ossoli�skich
+51.10907;17.02918;Ottu�;plac Solny 15;?;Agencja Pracy OTTO
+51.09376;17.01490;�semek;Zaporoska 71;Bogus�awa Gasiewicz;VIII Liceum Og�lnokszta�c�ce im. Boles�awa Krzywoustego
+51.11646;17.05316;Pacjent i Lekarz;Henryka Sienkiewicza 37/39;Tomasz Moczek;Przychodnia �r�dmie�cie
+51.11813;17.03999;Paczu�;Boles�awa Drobnera 38;Tomasz Moczek;DPD
+51.11547;17.06058;Pan Kazimierz;Piastowska;nieznany;skwer na skrzy�owaniu Henryka Sienkiewicza i Piastowskiej
+51.12136;16.84452;Pan Twardowski;Jarno�towska 85b;Beata Zwola�ska�Ho�od;Karczma Rzym
+51.09166;17.00390;Pani Doktor;Pretficza 40G;Arkadiusz Kusz;Przychodnia Lekarska
+51.10512;17.02282;Panna Pychotka;S�dowa 14;Marcin �uczkowski;Sklep �Krasnal�
+51.11027;17.04430;Panoramik;Jana Ewangelisty Purkyniego 11;Beata Zwola�ska�Ho�od;Panorama Rac�awicka
+51.11063;17.02278;[List];Paw�a W�odkowica 20/22;Beata Zwola�ska�Ho�od;Urz�d Stanu Cywilnego
+51.11138;17.01584;Papa Het;Ziemowita 11;"Marta Mirynowska
+Piotr Maka�a";Budynek Solo 11
+51.10718;17.03200;Papa Krasnal;�widnicka;Olaf Brzeski;ko�o przej�cia podziemnego
+51.11138;17.01584;Paragrafek;Uniwersytecka 22-26;Beata Zwola�ska�Ho�od;"Budynek �A�
+Wydzia� Prawa, Administracji i Ekonomii
+Uniwersytetu Wroc�awskiego"
+51.10513;17.02810;Patrolek;Podwale 31/33;Marta Mirynowska;Komenda Wojew�dzka Policji
+51.11138;17.01584;Parasolniki;plac Grunwaldzki 25-27;Tomasz Moczek;Grunwaldzki Center
+51.11267;17.04194;ParkM;Bulwar Xawerego Dunikowskiego;nieznany;Przysta� �Amfiteatralna�
+51.15033;17.12846;Phoeniksik;Bierutowska 57-59;?;Wroc�awski Park Biznesu 3
+51.11220;17.07274;Piastek;Parkowa 18-36;Anna W�jcik;"II Liceum Og�lnokszta�c�ce
+im. Piast�w �l�skich"
+51.11364;17.04003;Piastos�aw I Z�ocisty;Wyspa S�odowa;Beata Zwola�ska�Ho�od;"nad Odr�
+przy k�adce Piaskowej"
+51.11103;17.03377;Piero�nik;Ku�nicza 10;Marcin �uczkowski;Restauracja �STP�
+51.12659;16.97174;Pilotek;Bulwar Ikara 19;Beata Zwola�ska�Ho�od;"Szko�a podstawowa 118
+im. p�k. pil. Boles�awa Orli�skiego"
+51.11408;16.95352;Piotrek;Wojrowicka 58;"Ute Hartwig-Schulz
+oraz uczniowie liceum";"XV Liceum Og�lnokszta�c�ce
+im. mjr. Piotra Wysockiego"
+51.15069;17.02300;Piwowar;Paprotna 4;Grzegorz �agowski;Browar Prost
+51.11036;17.03350;Piwo��op z piese�em Piwoszem;Rynek 41;Beata Zwola�ska�Ho�od;Kamienica Pod Z�otym Psem
+51.11747;17.03590;Plazu�;Boles�awa Drobnera 11-13;nieznany;Plaza Hotel
+51.11089;17.03068;Pocztowiec;Rynek 28;Beata Zwola�ska�Ho�od;"Urz�d Pocztowy Wroc�aw 32
+na skrzynce pocztowej"
+51.11225;17.03008;Podr�nik;Kie�ba�nicza 20;Beata Zwola�ska�Ho�od;�Art Hotel�
+51.09719;17.03533;Podr�nik;Sucha 1;Grzegorz �agowski;Galeria Wroclavia
+51.11075;17.05978;Polidenciak;plac Grunwaldzki 15;Beata Zwola�ska�Ho�od;"Centrum Stomatologiczne
+�poliDENT�"
+51.10861;17.05464;Poliglotek;Wybrze�e Stanis�awa Wyspia�skiego 7;Beata Zwola�ska�Ho�odSebastian Obst;Studium J�zyk�w Obcych Politechniki Wroc�awskiej
+51.14106;17.06906;Politek;Koszarowa 3;nieznany;Instytut Politologii
+51.10641;17.04163;"Polonek
+i Germanek";Podwale;Beata Zwola�ska�Ho�od;Konsulat Generalny Republiki Federalnej Niemiec
+51.10975;17.03175;Pomagajek;Rynek/Sukiennice 12;"Marta Mirynowska
+Piotr Maka�a";Krasnal Info
+51.12636;16.99125;Popowicjusz;Rysia;nieznany;Geometryczne Centrum Wroc�awia
+51.10956;17.03033;Powerek;Rynek 12;Beata Zwola�ska�Ho�od;Agencja PowerEvents
+51.11117;17.03044;Po�arki;�w. El�biety 1;Grzegorz �agowski;plac przed Bazylik� �w. El�biety W�gierskiej
+51.11364;17.04003;Pracz Odrza�ski;�w. Jadwigi 3/4;Tomasz Moczek;"Bulwar W�ostowica
+most Piaskowy"
+51.08933;17.06625;Pralinka;Krakowska 112-116;nieznany;E&S Industry S.A.
+51.10977;17.03078;Prezentu�;Rynek;Beata Zwola�ska�Ho�od;"obecny podczas
+Jarmarku Bo�onarodzeniowego"
+51.11376;17.03358;Profesor Medyk;plac Uniwersytecki 1;Bogna Kozera-Radomska;"Gmach g��wny
+Uniwersytetu Wroc�awskiego"
+51.11300;17.03906;Profesor Miodek;plac Biskupa Nankiera 15;Beata Zwola�ska�Ho�od;Instytut Filologii Polskiej Uniwersytetu Wroc�awskiego
+51.11051;17.02637;ProLinka;Kazimierza Wielkiego 7;"Arnold Buzdygan
+Pawe� Mielewski";"sklep
+�ProLine�"
+51.09723;17.03170;Promyczek;Swobodna 8a;Beata Zwola�ska�Ho�od;"Przychodnia Fundacji
+�Promyk S�o�ca�"
+51.08127;16.96968;Prywatek;Marcina Bukowskiego 7A;Beata Zwola�ska�Ho�od;"prywatna
+posesja"
+51.11059;17.03182;Przodownik;Rynek Ratusz 10;Beata Zwola�ska�Ho�od;Klubo � kawiarnia PRL
+51.10634;17.02037;Przedszkoludek;Iwana Paw�owa 6A;Katarzyna Nowak;"Przedszkole nr 87
+�Wroc�awskie dzieciaki�"
+51.11197;16.99121;Przemys�aw Parku�;Fabryczna 10;Tomasz Moczek;"Centrum Konferencyjne
+Wroc�awskiego Parku Przemys�owego"
+51.11003;16.92715;Przylepek;Graniczna 25;Marta Mirynowska;Comex
+51.04592;16.88243;Radiotechnik;"Pietrzykowice
+Fabryczna 20";Tomasz Moczek;Radiotechnika Marketing Sp. z o.o.
+51.07167;17.00642;Radiowiec;Karkonoska 10;Beata Zwola�ska-Ho�od;Radio Wroc�aw
+51.10606;17.03160;Recyklinek;�widnicka 31;Tomasz Moczek;Hotel Monopol
+51.11007;17.02831;Rejent;Ruska 3/4;Marta Mirynowska;"Kamienica
+Pod Trzema Liliami"
+51.15385;17.12554;Rejestru�;Armii Ludowej 21;Marcin �uczkowski;Krajowy Rejestr D�ug�w
+51.14134;16.89895;[List];Rajska 71;Tomasz Moczek;"Klinika
+�Mama i Ja�"
+51.11073;17.03356;Rogalik;Ku�nicza 65/66;Beata Zwola�ska�Ho�od;"Piekarnia-Restauracja
+�Pan Croissant�"
+51.11223;17.06464;Roszek;Norwida 31;Tomasz Moczek;Wydzia� Medycyny Weterynaryjnej Uniwersytetu Przyrodniczego
+51.10761;17.03256;Rowerzysta;�widnicka 8c;nieznany;Barbara: infopunkt, kawiarnia, kultura
+51.10801;17.03148;RoyalDenciaki;Stanis�awa Leszczy�skiego 5;Tomasz Moczek;Royal Dent
+51.12248;17.04038;Rozkwietnik;Kr�ta 1/3;"Marta Mirynowska
+Piotr Maka�a
+oraz dzieci z programu
+�Rozkwietnik podw�rek�";"Centrum Zr�wnowa�onego
+Rozwoju Spo�eczno�ci Wroc�awia
+�Locus�"
+51.08560;17.01053;RSTynek;Rac�awicka 2-4;Marta Mirynowska;RST Software Masterson
+51.14561;16.87046;Rycerz Jadwi�a�ski;plac �wi�toja�ski 1;Beata Zwola�ska�Ho�od;"kamienna p�ka
+przed Zamkiem w Le�nicy"
+51.11208;17.03096;Rze�nik;Stare Jatki;Tomasz Moczek;"Od strony przeciwnej ni� sklepy
+na pocz�tku bramy
+(nie od strony zwierz�t)"
+51.17264;17.17481;Quadeusz;"D�ugo��ka
+Wroc�awska 56";Piotr Maka�a;"Team Pasierbski
+salon Polarisa"
+51.15107;17.01731;Saper;Obornicka 108;Jerzy Maziarz;"Centrum Szkolenia Wojsk
+In�ynieryjnych i Chemicznych
+im. gen. Jakuba Jasi�skiego"
+51.11216;17.05963;Serdeczni�;plac Grunwaldzki 22;Marcin �uczkowski;Pasa� Grunwaldzki
+51.14506;17.14483;Si�acz;Kie�czowska 177;Tomasz Moczek;CrossFit
+51.16856;17.02822;Si�owmir;Polanowicka P�nocna 8;nieznany;D+H
+51.14808;17.03064;Skarbu�;�migrodzka 141;Beata Zwola�ska�Ho�od;Dolno�l�ski Urz�d Skarbowy
+51.11339;17.03596;Skryba;Szewska 44-46;Grzegorz Niemyjski;"Salon
+�Stal�wka�"
+51.10994;17.03202;S�uchacz RMF;Sukiennice 6;nieznany;RMF FM
+51.10854;17.03535;"S�upniki
+O�awskie";O�awska;Micha� Osuch;"1 latarnia
+przed numerem 1"
+51.10854;17.03535;"S�upniki
+O�awskie";O�awska;Micha� Osuch;"2 latarnia
+przed numerem 4a"
+51.10854;17.03535;"S�upniki
+O�awskie";O�awska;Micha� Osuch;"3 latarnia
+przed numerem 8"
+51.10854;17.03535;"S�upniki
+O�awskie";O�awska;Micha� Osuch;4 zaginiony
+51.10854;17.03535;"S�upniki
+O�awskie";O�awska;Micha� Osuch;5 zaginiony
+51.10854;17.03535;"S�upniki
+O�awskie";O�awska;Micha� Osuch;6 zaginiony
+51.10939;17.02944;"S�upniki
+Solne";plac Solny;Micha� Osuch;"1 latarnia
+p�nocno-wschodni
+naro�nik placu"
+51.10939;17.02944;"S�upniki
+Solne";plac Solny;Micha� Osuch;"2 latarnia
+p�nocno-zachodni
+naro�nik placu"
+51.10939;17.02944;"S�upniki
+Solne";plac Solny;Micha� Osuch;"3 latarnia
+po�udniowo-zachodni
+naro�nik placu"
+51.10939;17.02944;"S�upniki
+Solne";plac Solny;Micha� Osuch;"4 latarnia
+po�udniowo-wschodni
+naro�nik placu"
+51.10831;17.03263;"S�upniki
+�widnickie";�widnicka;Micha� Osuch;"1 latarnia
+przed numerem 5"
+51.10831;17.03263;"S�upniki
+�widnickie";�widnicka;Micha� Osuch;"2 latarnia
+przed numerem 8"
+51.10831;17.03263;"S�upniki
+�widnickie";�widnicka;Micha� Osuch;"3 latarnia
+przed numerem 16"
+51.10831;17.03263;"S�upniki
+�widnickie";�widnicka;Micha� Osuch;"4 latarnia
+przed numerem 27-29"
+51.10831;17.03263;"S�upniki
+�widnickie";�widnicka;Micha� Osuch;5 zaginiony
+51.10831;17.03263;"S�upniki
+�widnickie";�widnicka;Micha� Osuch;6 zaginiony
+51.11286;17.01920;Bartek Skrzy�ski �Skrzynia� i krasnal;Ignacego Jana Paderewskiego 35;nieznany;Stadion Olimpijski
+51.11286;17.01920;Solidarek;plac Solidarno�ci 1/3/5;Beata Zwola�ska�Ho�od;"Zarz�d Regionu
+NSZZ Solidarno��"
+51.10919;17.05172;Solidarek Walcz�cy;Most Grunwaldzki;nieznany;zachodni pylon
+51.10797;17.02520;Sportu�;W�odkowica 5;Tomasz Moczek;The Winners Pub
+51.11464;17.03996;Sprawiedliwiusz;�wi�tej Jadwigi 12;Beata Zwola�ska�Ho�od;"Wy�sza Szko�a Zarz�dzania i Prawa
+im. Heleny Chodkowskiej"
+51.10125;17.03763;"Stra�nik
+(Halabardnik)";Gwarna 5/7;Marcin �uczkowski;"Posterunek
+stra�y miejskiej"
+51.11068;17.03059;Suvenirek;Rynek 3;Beata Zwola�ska�Ho�od;Informacja Turystyczna
+51.10893;17.03287;[List];�widnicka;Tomasz Moczek;ko�o Poczty Polskiej
+51.11398;17.03425;[List];Wojszycka 8;Tomasz Moczek;Hotel �Podkowa�
+51.11398;17.03425;Szermierz;plac Uniwersytecki;Tomasz Moczek;Fontanna �Szermierz�
+51.10083;17.03016;Szo� Mastgo�o�;J�zefa Pi�sudskiego 67;Marta Mirynowska;"Teatr Muzyczny
+�Capitol�"
+51.10743;17.02591;Szomol;Krupnicza;"Piotr Maka�a
+Marta Mirynowska";Narodowe Forum Muzyki
+51.09733;16.99783;Sztangista;Oporowska 60;Beata Zwola�ska�Ho�od;Hotel ��l�sk�
+51.10555;17.03121;"�piewak Operowy
+i Tancerka Balerina";�widnicka 35;"Marta Mirynowska
+Piotr Maka�a";Opera Wroc�awska
+51.11126;17.03068;"�pioch
+(Stra�nik)";�w. Miko�aja 1;Tomasz Moczek;na ty�ach kamieniczki Ja�
+51.10495;17.08642;�wietlik;"Zajezdnia nr VI D�bie
+Zygmunta Wr�blewskiego 36";Tomasz Moczek;"Tramwaj Protram 205 WrAs
+o numerze bocznym 2703"
+51.11089;17.02944;Tatuator;Kie�ba�nicza 7;Arkadiusz Kusz;Kos Tattoo
+51.10466;17.04625;"Telefonista
+Telefoniusz";gen. J�zefa Hauke Bosaka 21;Grzegorz �agowski;"Zesp� Szk� Teleinformatycznych
+i Elektronicznych
+im. Polskich Zwyci�zc�w Enigmy"
+51.07215;17.00670;Telesfor;Karkonoska 8;Tomasz Moczek;"Telewizja Polska Oddzia� Wroc�aw
+(przy siedzibie TVP 3)"
+51.10828;17.02404;Temidek;Paw�a W�odkowica 8;Beata Zwola�ska�Ho�od;Okr�gowa Izba Radc�w Prawnych
+51.10254;17.03700;Tescoma;Hugona Ko���taja 27-28;Tomasz Moczek;Sklep ski4you dawniej sklep Tescoma
+51.03442;16.99228;Tomek;�l�za ul. G��wna 12;?;Zamek Topacz
+51.07899;17.04270;Torfik;Orzechowa 62;Marta Mirynowska;"Szko�a Podstawowa nr 90
+im. prof. Stanis�awa To�py"
+51.11300;17.03256;Tralalalek;Wi�zienna 21;;Cafe Tralalala
+51.11216;17.05963;Tr�bibrzuch;plac Grunwaldzki 22;Marcin �uczkowski;Pasa� Grunwaldzki
+51.11216;17.05963;Trendu�;plac Grunwaldzki 22;Marcin �uczkowski;Pasa� Grunwaldzki
+51.11407;17.09412;Trener;Adama Mickiewicza 58;Marta Mirynowska;"Akademia Wychowania Fizycznego
+Katedra Biomechaniki"
+51.14561;16.87046;Trisomek;Kapitulna 4;Beata Zwola�ska�Ho�od;"klub �rodowiskowy
+�Pozytywka�"
+51.10978;17.03328;Troszka i Adoratorek;Rynek 33;Grzegorz �agowski;"II oddzia�
+PKO BP"
+51.10813;17.02241;Tr�jku� Wywiadek;Bulwar Tadka Jasi�skiego;Beata Zwola�ska�Ho�od;Przy k�adce Radiowej Tr�jki
+51.10797;17.02669;Truchcia;Krupnicza 6/8;Grzegorz �agowski;"Sklep
+Run4Fun.pl"
+51.05825;17.01033;Trufelek;Zwyci�ska 14;?;Sklep Zielona Trufla
+51.10950;17.03064;Turysta;Rynek 14;Marcin �uczkowski;Centrum Informacji Turystycznej
+51.11003;17.03171;TynQu�;Sukiennice 6;;Baumit
+51.11278;17.03717;Ursus;Plac Biskupa Nankiera 16;Piotr Maka�a;Zesp� Szk� Urszula�skich
+51.11633;17.11836;Uziomek;Swojczycka 38E;nieznany;Elko-Bis
+51.10845;17.03543;Vertigu�;O�awska 13;Tomasz Moczek;klub Vertigo
+51.12053;17.11444;Volviki;Mydlana 2;Tomasz Moczek;Volvo
+51.14665;17.02640;Vulcaniusz;Wo�owska 4-6;Tomasz Moczek;Vulcan
+51.08739;17.05903;Wagu�;Pi�kna 58a;Beata Zwola�ska�Ho�od;"Biurowiec
+�WAGO�"
+51.11300;17.03256;Wa�a�a�ek;Wi�zienna 21;;Cafe Tralalala
+51.11100;17.03119;Wedelek;Rynek 59;Piotr Maka�a;Pijalnia Czekolady E. Wedel
+51.11138;17.03005;Weteran;�w. El�biety 1/2;Jerzy Maziarz;"Bazylika �w. El�biety W�gierskiej
+model dla niewidomych"
+51.08023;17.02212;Weterynarz;�l�na 136;Stanis�aw Lenar;"Klinika Weterynaryjna
+INTERWET"
+51.09006;17.00782;Wieniawek;Gajowicka 130;Tomasz Moczek;Hotel Wieniawa
+51.11018;17.03122;Wiesiek Partnerski;Sukiennice 9;Beata Zwola�ska�Ho�od;"parapet
+sekretariatu Prezydenta"
+51.11251;17.03249;"Wi�zie�
+(Wi�ziennik)";Wi�zienna 6;Marcin �uczkowski;"O�rodek Bada� nad
+Kultur� P�nego Antyku
+i Wczesnego �redniowiecza
+Instytut Archeologii i Etnologii PAN"
+51.10661;17.05875;Wio�larze;Wybrze�e Stanis�awa Wyspia�skiego 40;;�semka
+51.10661;17.05875;Wio�larze;Wybrze�e Stanis�awa Wyspia�skiego 40;;Sterniczka
+51.10661;17.05875;Wio�larze;Wybrze�e Stanis�awa Wyspia�skiego 40;;Wio�larz 1
+51.10661;17.05875;Wio�larze;Wybrze�e Stanis�awa Wyspia�skiego 40;;Wio�larz 2
+51.10661;17.05875;Wio�larze;Wybrze�e Stanis�awa Wyspia�skiego 40;;Wio�larz 3
+51.10661;17.05875;Wio�larze;Wybrze�e Stanis�awa Wyspia�skiego 40;;Wio�larz 4
+51.10661;17.05875;Wio�larze;Wybrze�e Stanis�awa Wyspia�skiego 40;;Wio�larz 5
+51.10661;17.05875;Wio�larze;Wybrze�e Stanis�awa Wyspia�skiego 40;;Wio�larz 6
+51.10661;17.05875;Wio�larze;Wybrze�e Stanis�awa Wyspia�skiego 40;;Wio�larz 7
+51.10661;17.05875;Wio�larze;Wybrze�e Stanis�awa Wyspia�skiego 40;;Wio�larz 8
+51.10814;17.06483;WIZ-ek;�ukasiewicza 3/5;Beata Zwola�ska-Ho�od;przed wej�ciem do budynku B-4 Politechniki Wroc�awskiej
+51.11233;17.05561;W�azimierz;Polaka 18;nieznany;przed wej�ciem do sklepu Skalnik
+51.10984;17.03143;Wodziarz;Rynek Ratusz 1;Grzegorz �agowski;"przed restauracj�
+�Pod Fredr��"
+51.12627;16.98253;Wolontarek;Legnicka 65;Grzegorz �agowski;Stowarzyszenie �Tratwa�
+51.08850;17.06496;Wrati i Slawi;Krakowska 71-105;Tomasz Moczek;"hala
+Selgros"
+51.16972;16.90181;Wroc-ek;Stab�owicka 143;"ucze�
+szko�y";Szko�a Podstawowa nr 22
+51.12278;17.02694;Wrocklik;pl. Strzelecki 25 � I. pi�tro, kiedy� gen. J�zefa Bema 2;Beata Zwola�ska�Ho�od;"Siedziba
+nk.pl"
+51.11114;17.03074;WrocLovek;Odrza�ska 39-40;Beata Zwola�ska�Ho�od;"Towarzystwo Mi�o�nik�w
+Wroc�awia
+kamieniczka �Ma�gosia�"
+51.09558;17.03322;Wroclovki;Sucha 1;Beata Zwola�ska�Ho�od;Galeria Wroclavia
+51.10619;17.07264;Wroc�awski KrasnoL�d;Zygmunta Wr�blewskiego 1-5;nieznany;"Ogr�d Zoologiczny
+przy budce z lodami �Kr�c� Lody.pl�"
+51.10964;17.03753;Wsp�Czesio;Wita Stwosza 32;Pawe� Jarodzki;"BWA Wroc�aw
+Galerie Sztuki Wsp�czesnej"
+51.10724;17.05943;Wykszta�ciuch;Wybrze�e Stanis�awa Wyspia�skiego 23-25;Beata Zwola�ska�Ho�od;"Zintegrowane Centrum Studenckie (C13)
+Politechniki Wroc�awskiej"
+51.10979;17.03021;Wyp�atnik;Rynek 9/11;Marcin �uczkowski;"I Oddzia�
+Banku Zachodniego WBK"
+51.09326;17.02311;Wytrwa�ek;Trwa�a 17-19;"uczniowie
+szko�y";"Szko�a Podstawowa nr 72
+im. W�adys�awa Zarembowicza"
+51.10166;17.02980;Zikusia;�widnicka 48;Grzegorz �agowski;Ziko Apteka
+51.06121;17.02736;Zgryzek;Parafialna 57;Grzegorz �agowski;Ortho.pl
+51.11096;17.02826;Zo�ka i Jedru�;Rze�nicza 5;Tomasz Moczek;"Coctail Bar
+Max&Dom Whisky"
+51.10969;17.03156;Zraszacz;Rynek Ratusz;nieznany;"pierzeja po�udniowa rynku
+wytwarza kurtyn� wodn�"
+51.10605;17.03569;�aczek;Mennicza 21-23;Tomasz Moczek;"Szko�a Podstawowa nr 63
+im. Anny Jasi�skiej"
+51.11058;17.03129;�yczliwek;Rynek;Marcin �uczkowski;"strona zachodnia
+ko�o fontanny"
