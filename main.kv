@@ -1,4 +1,5 @@
 #:include kv/homescreen.kv
+#:include kv/collectedscreen.kv
 #:import utils kivy.utils
 
 Screen:
@@ -12,17 +13,17 @@ Screen:
         size_hint: 1, .1
     ScreenManager:
         id: screen_manager
-        size_hint: 1, 1
-        pos_hint: {"top": 1, "left": 1}
+        size_hint: 1, .9
+        pos_hint: {"top": .9, "left": 1}
         HomeScreen:
             name: "home_screen"
             id: home_screen
             title: "Znajdz krasnala"
-        Screen:
+        CollectedScreen:
             name: "collected_dwarfs"
             id: collected_dwarfs
             title: "Znalezione krasnale"
-
+           
     MDNavigationLayout:
         MDNavigationDrawer:
             id: nav_drawer

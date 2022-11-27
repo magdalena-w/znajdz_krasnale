@@ -1,0 +1,26 @@
+#:import utils kivy.utils
+
+<CollectedScreen>:
+    ScrollView:
+        MDGridLayout:
+            id: collected_dwarfs_image_grid
+            cols: 2
+            row_default_height: (self.width - self.cols*self.spacing[0]) / self.cols
+            row_force_default: True
+            #size_hint: 1, None
+            adaptive_height: True
+            padding: dp(4), dp(4)
+            spacing: dp(4)
+
+            #Right now it's static, need to add actual loading functionality later
+            #Should be enough for presentation purposes
+            MDSmartTile:
+                source: 'resources/images/krasnals/automatek.jpg'
+                MDLabel:
+                    text: 'Automatek'
+                    color: 'white'
+            MDSmartTile:
+                source: 'resources/images/krasnals/Babelek_Chlaptus.jpg'
+                MDLabel:
+                    text: 'Bąbelek Chlaptus'
+                    color: 'white'

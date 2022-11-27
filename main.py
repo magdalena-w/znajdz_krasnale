@@ -8,7 +8,6 @@ from homemapview import HomeMapView
 from homegpshelper import HomeGpsHelper
 
 import sqlite3
-
 import os
 
 Window.size = (375, 750)
@@ -17,6 +16,8 @@ Window.size = (375, 750)
 class HomeScreen(Screen):
     pass
 
+class CollectedScreen(Screen):
+    pass
 
 class MainApp(MDApp):
     current_lat = 51.107883
