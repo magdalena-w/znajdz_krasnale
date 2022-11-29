@@ -1,11 +1,13 @@
 #:include kv/homescreen.kv
 #:include kv/collectedscreen.kv
+#:include kv/loginscreen.kv
+#:include kv/signupscreen.kv
 #:import utils kivy.utils
 
 Screen:
     MDTopAppBar:
         id: titlename
-        title: "Znajdz krasnala"
+        title: "Znajdź krasnala"
         left_action_items: [["menu", lambda x : nav_drawer.set_state('toggle')]]
         md_bg_color: app.theme_cls.primary_color
         elevation: 8
@@ -18,11 +20,19 @@ Screen:
         HomeScreen:
             name: "home_screen"
             id: home_screen
-            title: "Znajdz krasnala"
+            title: "Znajdż krasnala"
         CollectedScreen:
             name: "collected_dwarfs"
             id: collected_dwarfs
             title: "Znalezione krasnale"
+        LoginScreen:
+            name: "login_screen"
+            id: login_screen
+            title: "Zaloguj się"
+        SignUpScreen:
+            name: "signup_screen"
+            id: signup_screen
+            title: "Zarejestruj się"
            
     MDNavigationLayout:
         MDNavigationDrawer:
@@ -44,7 +54,7 @@ Screen:
                         #nav_drawer.toggle_nav_drawer()
                         app.change_screen("profilephoto_screen", direction='right', mode='push')
                 MDLabel:
-                    text: 'Profile Picture'
+                    text: 'Zdjęcie profilowe'
                     font_style: 'Subtitle1'
                     color: app.theme_cls.text_color
                     size_hint_y: None

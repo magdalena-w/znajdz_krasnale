@@ -1,5 +1,6 @@
 from kivymd.app import MDApp
 from specialbuttons import LabelButton, ImageButton
+from kivy.properties import ObjectProperty
 from kivy.uix.screenmanager import Screen, NoTransition, CardTransition
 
 from kivy.core.window import Window
@@ -16,7 +17,16 @@ Window.size = (375, 750)
 class HomeScreen(Screen):
     pass
 
+
 class CollectedScreen(Screen):
+    pass
+
+
+class LoginScreen(Screen):
+    pass
+
+
+class SignUpScreen(Screen):
     pass
 
 class MainApp(MDApp):
@@ -56,17 +66,17 @@ class MainApp(MDApp):
         screen_manager.current = screen_name
         
         # Changes screen title to one defined in the screen in .kv file
-        self.root.ids.titlename.title = screen_manager.get_screen(screen_name).title
+        # self.root.ids.titlename.title = screen_manager.get_screen(screen_name).title
             
     def change_theme(self):
         if (self.theme_cls.theme_style == "Light"):
-            self.theme_cls.primary_palette = "Blue"
+            self.theme_cls.primary_palette = "Teal"
             self.theme_cls.theme_style = "Dark"
             self.theme_cls.primary_hue = "500"
             # For some reason doesn't change text colors.
         else:
             self.theme_cls.primary_palette = "Teal"
             self.theme_cls.theme_style = "Light"
-            self.theme_cls.primary_hue = "200"
+            self.theme_cls.primary_hue = "500"
 
 MainApp().run()

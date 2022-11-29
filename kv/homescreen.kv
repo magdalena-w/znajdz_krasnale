@@ -12,7 +12,9 @@
             size_hint: 1, .1
             pos_hint: {"top": .10, "right": 1}
             LabelButton:
-                text: "Zaloguj sie"
+                text: "Zaloguj się"
+                font_size: "16sp"
+                font_name: "resources/fonts/Poppins-Regular"
                 canvas.before:
                     Color:
                         rgb: app.theme_cls.primary_color if self.state == 'normal' else utils.get_color_from_hex("#66b2b2")
@@ -23,7 +25,9 @@
                 on_release:
                     app.change_screen("login_screen", direction='right', mode='push')
             LabelButton:
-                text: "Jakas druga opcja"
+                text: "Dodaj zdjęcie"
+                font_size: "16sp"
+                font_name: "resources/fonts/Poppins-Regular"
                 canvas.before:
                     Color:
                         rgb: app.theme_cls.primary_color if self.state == 'normal' else utils.get_color_from_hex("#66b2b2")
