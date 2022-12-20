@@ -1,4 +1,5 @@
 #:import utils kivy.utils
+#:import HomeMapView homemapview.HomeMapView
 
 <CollectedScreen>:
     ScrollView:
@@ -17,11 +18,15 @@
             #Should be enough for presentation purposes
             MDSmartTile:
                 source: 'resources/images/krasnals/automatek.jpg'
+                on_release: HomeMapView.get_krasnal_by_name(HomeMapView, 'Automatek').show_popup()
                 MDLabel:
                     text: 'Automatek'
                     color: 'white'
+                
+
             MDSmartTile:
                 source: 'resources/images/krasnals/Babelek_Chlaptus.jpg'
+                on_release: HomeMapView.get_krasnal_by_name(HomeMapView, 'Babelek Chlaptus').show_popup()
                 MDLabel:
-                    text: 'Bąbelek Chlaptus'
+                    text: 'Babelek Chlaptus'
                     color: 'white'
