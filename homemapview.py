@@ -39,7 +39,8 @@ class HomeMapView(MapView):
         marker.name = krasnal[2]
         pathname =  (krasnal[2]+".jpg").replace(" ", "_")
         marker.path += pathname
-        print(marker.path)
+        ##DEBUG:
+        #print(marker.path)
         #Add the marker to the map
         self.add_widget(marker)
 
