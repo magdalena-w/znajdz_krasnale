@@ -29,6 +29,18 @@ class LoginScreen(Screen):
 class SignUpScreen(Screen):
     pass
 
+class FileSelectionScreen(Screen):
+    
+    def select(self, *args):
+        try:
+            file_path = args[1][0]
+            filename = os.path.basename(file_path)
+            self.confirm_label.text = "Powtierdź: " + filename
+        except: pass
+    
+    def confirm(self):
+        pass
+         
 class MainApp(MDApp):
     current_lat = 51.107883
     current_lon = 17.038538
@@ -37,24 +49,17 @@ class MainApp(MDApp):
     connection = None
     cursor = None
 
-    if os.path.isfile("resources/data/profile_source.txt"):
-        with open("resources/data/profile_source.txt", "r") as f:
-            some_path = f.read()
-            if len(some_path) > 0:
-                img_source_path = some_path
-            else:
-                img_source_path = "resources/images/empty.jpg"
-    else:
-        img_source_path = "resources/images/empty.jpg"
+    img_source_path = "resources/images/empty.jpg"
 
     def on_start(self):
+        # Set theme
         self.theme_cls.primary_palette = "Teal"
         self.theme_cls.primary_hue = "200"  # "500"
         self.theme_cls.theme_style = "Light"
-        
 
         # Initialize GPS
         HomeGpsHelper().run()
+        
         # Connect to database
         self.connection = sqlite3.connect("resources/data/krasnale.db")
         self.cursor = self.connection.cursor()
@@ -73,7 +78,7 @@ class MainApp(MDApp):
             self.theme_cls.primary_palette = "Teal"
             self.theme_cls.theme_style = "Dark"
             self.theme_cls.primary_hue = "500"
-            # For some reason doesn't change text colors.
+            # For some reason doesn't change all text colors.
         else:
             self.theme_cls.primary_palette = "Teal"
             self.theme_cls.theme_style = "Light"

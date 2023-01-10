@@ -2,6 +2,7 @@
 #:include kv/collectedscreen.kv
 #:include kv/loginscreen.kv
 #:include kv/signupscreen.kv
+#:include kv/fileselectionscreen.kv
 #:import utils kivy.utils
 
 Screen:
@@ -33,6 +34,11 @@ Screen:
             name: "signup_screen"
             id: signup_screen
             title: "Zarejestruj się"
+        FileSelectionScreen:
+            name: "fileselectionscreen"
+            id: fileselectionscreen
+            title: "Wybierz zdjęcie"
+            #caller: ""
            
     MDNavigationLayout:
         MDNavigationDrawer:
@@ -50,9 +56,11 @@ Screen:
                         Rectangle:
                             size: self.size
                             pos: self.pos
-                    #on_release:
-                        #nav_drawer.toggle_nav_drawer()
-                    #    app.change_screen("profilephoto_screen", direction='right', mode='push')
+                    on_release:
+                        nav_drawer.set_state('toggle')
+                        #fileselectionscreen.caller = "profile"
+                        app.change_screen("fileselectionscreen", direction='right', mode='push')
+                        #Must send who's calling from here
                 MDLabel:
                     text: 'Zdjęcie profilowe'
                     font_style: 'Subtitle1'
@@ -79,14 +87,12 @@ Screen:
                             on_release:
                                 app.change_screen('collected_dwarfs')
                                 nav_drawer.set_state('toggle')
-                                #nav_drawer.toggle_nav_drawer()
                             IconLeftWidget:
                                 icon: 'checkbox-multiple-outline'
                         OneLineIconListItem:
                             text: 'Tryb jasny / ciemny'
                             on_release:
                                 app.change_theme()
-                                #nav_drawer.toggle_nav_drawer()
                             IconLeftWidget:
                                 icon: 'theme-light-dark'
                         

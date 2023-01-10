@@ -1,0 +1,45 @@
+<FileSelectionScreen>:
+	
+	confirm_label: confirm_file_button
+
+    BoxLayout:
+        orientation: 'vertical'
+    # Creating list view one side
+        FileChooserListView:
+            size_hint_y: 1
+            canvas.before:
+                Color:
+                    rgb: .4, .5, .5
+                Rectangle:
+                    size: self.size
+            on_selection: root.select(*args)
+
+    
+        Button:
+            id: confirm_file_button
+            size_hint_y: .1
+            canvas.before:
+                Color:
+                    rgb: .5, .5, .4
+                Rectangle:
+                    pos: self.pos
+                    size: self.size
+
+            on_release: 
+                app.change_screen('home_screen')
+                root.confirm()
+            
+        Button:
+            id: cancel_file_button
+            size_hint_y: .1
+            text: 'Cancel'
+            canvas.before:
+                Color:
+                    rgb: .5, .5, .4
+                Rectangle:
+                    pos: self.pos
+                    size: self.size
+            on_release:
+                app.change_screen('home_screen')
+
+      
